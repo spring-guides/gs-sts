@@ -46,7 +46,7 @@ For the purpose of this guide, enter **rest** into the instant search box. Then 
 
 ![Pick a guide](images/3_wizard.png)
 
-STS will create a new workspace, import the [Consuming Rest][gs-consuming-rest] code base (both initial and complete), and open a browser tab inside STS as shown below:
+STS will create two new projects in your workspace, import the [Consuming Rest][gs-consuming-rest] code base (both initial and complete), and open a browser tab inside STS as shown below:
 
 ![View the code and the guide](images/4_after-import.png)
 
