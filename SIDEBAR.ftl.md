@@ -17,8 +17,10 @@ Building applications with STS is just one facet of application development. You
 ### Tutorials
 
 * [Designing and Implementing RESTful Web Services with Spring][tut-rest]
+* [Designing and Implementing a Web Site with Spring][tut-web]
 
 [tut-rest]: /guides/tutorials/rest
+[tut-web]: /guides/tutorials/web
 
 ### Concepts and technologies
 
