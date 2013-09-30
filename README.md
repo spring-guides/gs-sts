@@ -10,7 +10,7 @@ What you'll need
 ----------------
 
  - About 15 minutes
- - [Spring Tool Suite (STS)](http://www.springsource.org/spring-tool-suite-download)
+ - [Spring Tool Suite (STS)](http://spring.io/tools/sts/all)
  - [JDK 6][jdk] or later
 
 [jdk]: http://www.oracle.com/technetwork/java/javase/downloads/index.html
