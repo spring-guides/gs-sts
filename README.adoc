@@ -26,24 +26,22 @@ You'll pick a Spring guide and import it into Spring Tool Suite. Then you can re
 
 
 == Installing STS
-If you don't have STS installed yet, visit the link up above. From there, you can download a copy for your platform. Then install it according to directions from the installer.
+If you don't have STS installed yet, visit the link up above. From there, you can download a copy for your platform. To instal it simply 
+unpack the downloaded archive.
 
 When you're done, go ahead and launch STS.
 
 == Importing a Getting Started guide
-With STS up and running, click on the tiny "Spring" logo as shown below:
 
-image::images/1_open_dash.png[Open the Spring dashboard]
+With STS up and running, open the **Import Getting Started Content** wizard from the **File** menu.
 
-Clicking on that logo will open the Spring Tool Suite dashboard. There are many things to pick from. But for this guide, select **Import Guide** as shown below:
+image::images/1_open_wizard.png[Import Getting Started Content]
 
-image::images/2_open_wizard.png[Import a guide]
-
-After picking **Import Guide**, you will see a pop-up wizard. This will offer you the chance to search and pick any of the published guides from the Spring website. You can either skim the list, or enter search words to instantly filter the options.
+A pop-up wizard will offer you the chance to search and pick any of the published guides from the Spring website. You can either skim the list, or enter search words to instantly filter the options.]
 
 NOTE: The criteria is applied to both the title and the description when offering instant search results. Wildcards are supported.
 
-You can pick either {gs-maven}[Maven] or {gs-gradle}[Gradle] as the build system to use. 
+You can pick either {gs-maven}[Maven] or {gs-gradle}[Gradle] as the build system to use.
 
 You can also decide whether to grab the **initial** code set, **complete** code set, or both. For most projects, the **initial** code set is an empty project, making it possible for you to copy-and-paste your way through a guide. The **complete** code set is all the code from the guide already entered. If you grab both, you can compare your work against the guide's and see the differences. 
 
