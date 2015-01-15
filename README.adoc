@@ -33,7 +33,7 @@ When you're done, go ahead and launch STS.
 
 == Importing a Getting Started guide
 
-With STS up and running, open the **Import Getting Started Content** wizard from the **File** menu.
+With STS up and running, open the **Import Spring Getting Started Content** wizard from the **File** menu.
 
 image::images/1_open_wizard.png[Import Getting Started Content]
 
