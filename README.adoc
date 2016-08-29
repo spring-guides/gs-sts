@@ -23,7 +23,7 @@ You'll pick a Spring guide and import it into Spring Tool Suite. Then you can re
 
  - About 15 minutes
  - http://spring.io/tools/sts/all[Spring Tool Suite (STS)]
- - {jdk}[JDK 6] or later
+ - {jdk}[JDK 8] or later
 
 
 == Installing STS
