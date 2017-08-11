@@ -27,7 +27,7 @@ You'll pick a Spring guide and import it into Spring Tool Suite. Then you can re
 
 
 == Installing STS
-If you don't have STS installed yet, visit the link up above. From there, you can download a copy for your platform. To install it simply 
+If you don't have STS installed yet, visit the link up above. From there, you can download a copy for your platform. To install it simply
 unpack the downloaded archive.
 
 When you're done, go ahead and launch STS.
@@ -44,7 +44,7 @@ NOTE: The criteria is applied to both the title and the description when offerin
 
 You can pick either {gs-maven}[Maven] or {gs-gradle}[Gradle] as the build system to use.
 
-You can also decide whether to grab the **initial** code set, **complete** code set, or both. For most projects, the **initial** code set is an empty project, making it possible for you to copy-and-paste your way through a guide. The **complete** code set is all the code from the guide already entered. If you grab both, you can compare your work against the guide's and see the differences. 
+You can also decide whether to grab the **initial** code set, **complete** code set, or both. For most projects, the **initial** code set is an empty project, making it possible for you to copy-and-paste your way through a guide. The **complete** code set is all the code from the guide already entered. If you grab both, you can compare your work against the guide's and see the differences.
 
 Finally, you can have STS open a browser tab to the guide on the website. This will let you work through a guide without having to leave STS.
 
@@ -62,6 +62,10 @@ From here, you can walk through the guide and navigate to the code files.
 
 Congratulations! You have setup Spring Tool Suite, imported the Consuming Rest getting started guide, and opened a browser tab to walk through it.
 
+== See Also
+
+The following guides may also be helpful:
+
+* https://spring.io/guides/gs/intellij-idea/[Working a Getting Started guide with IntelliJ IDEA]
 
 include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/master/footer.adoc[]
-
