@@ -3,6 +3,7 @@
 :gs-maven: link:/guides/gs/maven
 :gs-gradle: link:/guides/gs/gradle
 :gs-consuming-rest: link:/guides/gs/consuming-rest
+:images: https://raw.githubusercontent.com/spring-guides/gs-sts/master/images
 :toc:
 :icons: font
 :source-highlighter: prettify
@@ -32,7 +33,7 @@ When you're done, go ahead and launch STS.
 
 With STS up and running, open the **Import Spring Getting Started Content** wizard from the **File** menu.
 
-image::images/1_open_wizard.png[Import Getting Started Content]
+image::{images}/1_open_wizard.png[Import Getting Started Content]
 
 A pop-up wizard will offer you the chance to search and pick any of the published guides from the Spring website. You can either skim the list, or enter search words to instantly filter the options.]
 
@@ -46,11 +47,11 @@ Finally, you can have STS open a browser tab to the guide on the website. This w
 
 For the purpose of this guide, enter **rest** into the instant search box. Then pick {gs-consuming-rest}[Consuming Rest]. Pick **Maven** for building, and **initial** and **complete** code sets. Also opt to open the web page as shown below:
 
-image::images/3_wizard.png[Pick a guide]
+image::{images}/3_wizard.png[Pick a guide]
 
 STS will create two new projects in your workspace, import the {gs-consuming-rest}[Consuming Rest] code base (both initial and complete), and open a browser tab inside STS as shown below:
 
-image::images/4_after-import.png[View the code and the guide]
+image::{images}/4_after-import.png[View the code and the guide]
 
 From here, you can walk through the guide and navigate to the code files.
 
