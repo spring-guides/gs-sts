@@ -3,7 +3,7 @@
 :gs-maven: link:/guides/gs/maven
 :gs-gradle: link:/guides/gs/gradle
 :gs-consuming-rest: link:/guides/gs/consuming-rest
-:images: https://raw.githubusercontent.com/spring-guides/gs-sts/master/images
+:images: https://raw.githubusercontent.com/spring-guides/gs-sts/main/images
 :toc:
 :icons: font
 :source-highlighter: prettify
@@ -65,4 +65,4 @@ The following guides may also be helpful:
 
 * https://spring.io/guides/gs/intellij-idea/[Working a Getting Started guide with IntelliJ IDEA]
 
-include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/master/footer.adoc[]
+include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/main/footer.adoc[]
