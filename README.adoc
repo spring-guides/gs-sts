@@ -19,7 +19,7 @@ You'll pick a Spring guide and import it into Spring Tool Suite. Then you can re
 == What you'll need
 
  - About 15 minutes
- - http://spring.io/tools/sts/all[Spring Tool Suite (STS)]
+ - http://spring.io/tools/sts/all[Spring Tools Suite (STS)] installed on Eclipse IDE
  - {jdk}[JDK 8] or later
 
 
